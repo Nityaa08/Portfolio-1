@@ -137,7 +137,7 @@ section {
   justify-content: center;
   align-items: center;
   gap: 8rem;
-  background-image: radial-gradient(#9e79cf, #161616);
+  background-image: radial-gradient(#24013d, #161616);
   height: 10%;
   padding: 0;
   margin: 0;
@@ -695,7 +695,7 @@ h2{
 
 .project-card:hover {
   transform: translateY(-5px); 
-  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3); 
+  box-shadow: 0 8px 16px rgb(255, 255, 255); 
 }
 .project-card:hover::after {
   opacity: 1;
